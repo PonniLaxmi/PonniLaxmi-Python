@@ -8,4 +8,4 @@ The Instacart stakeholders are most interested in customer's purchasing behaviou
 ## Data:
 “The Instacart Online Grocery Shopping Dataset2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 31st October, 2022.
 ## Final Deliverables :
-[A4_final_report_ponni laxmi rajakumar.xlsx](https://github.com/PonniLaxmi/PonniLaxmi-Python/files/10438711/A4_final_report_ponni.laxmi.rajakumar.xlsx)
+Excel report with recommendations - [A4_final_report_ponni laxmi rajakumar.xlsx](https://github.com/PonniLaxmi/PonniLaxmi-Python/files/10438711/A4_final_report_ponni.laxmi.rajakumar.xlsx)
